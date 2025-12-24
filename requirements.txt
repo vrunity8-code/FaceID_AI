@@ -1,0 +1,10 @@
+insightface>=0.7.3
+onnx>=1.14.0
+onnxruntime>=1.14.0
+opencv-python>=4.8.0
+numpy<2.0.0
+scipy>=1.10.0
+requests>=2.28.0
+tqdm>=4.65.0
+scikit-image>=0.21.0
+PyYAML>=6.0
